@@ -13,6 +13,8 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Analysis of Outcomes Based on Goals
 
+![Outcomes_vs_Goals](resources/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 
 ## Results
