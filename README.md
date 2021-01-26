@@ -9,6 +9,8 @@ Performing analysis on Kickstarter data to uncover trends
 
 ### Analysis of Outcomes Based on Launch Date
 
+![Theater_Outcomes_vs_Launch](resources/Theater_Outcomes_vs_Launch.png)
+
 ### Analysis of Outcomes Based on Goals
 
 ### Challenges and Difficulties Encountered
